@@ -13,7 +13,7 @@ st.title("🌍 Rare Earth Mineral Prediction")
 st.write("DNN-Based Geological Concentration Prediction")
 
 # Load trained model
-data = joblib.load("rare_earth_dnn.pkl")
+data =joblib.load("rare_earth_dnn.pkl")
 
 model = data["model"]
 x_scaler = data["x_scaler"]

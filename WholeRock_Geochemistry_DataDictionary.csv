@@ -1,0 +1,46 @@
+Table,Field,Description,Units
+WholeRock_Geochemistry,Sample_ID,Alphanumeric sample identification,not applicable
+WholeRock_Geochemistry,Rock_Type,Lithological description of sample,not applicable
+WholeRock_Geochemistry,Data_Source,"Reference for previously-published data. ""This study"" indicates data newly released in this publication.",not applicable
+WholeRock_Geochemistry,Latitude,Latitude,decimal degrees
+WholeRock_Geochemistry,Longitude,Longitude,decimal degrees
+WholeRock_Geochemistry,Datum,Datum used for geographic projection,not applicable
+WholeRock_Geochemistry,SiO2_wtpct,"Silicon, as oxide. -9999 indicates determinations less than the detection limit of the analytical method",weight percent
+WholeRock_Geochemistry,TiO2_wtpct,"Titanium, as oxide. -9999 indicates determinations less than the detection limit of the analytical method",weight percent
+WholeRock_Geochemistry,Al2O3_wtpct,"Aluminum, as oxide. -9999 indicates determinations less than the detection limit of the analytical method",weight percent
+WholeRock_Geochemistry,Fe2O3_wtpct,"Iron, as oxide",weight percent
+WholeRock_Geochemistry,MnO_wtpct,"Manganese, as oxide",weight percent
+WholeRock_Geochemistry,MgO_wtpct,"Magnesium, as oxide",weight percent
+WholeRock_Geochemistry,CaO_wtpct,"Calcium, as oxide",weight percent
+WholeRock_Geochemistry,Na2O_wtpct,"Sodium, as oxide",weight percent
+WholeRock_Geochemistry,K2O_wtpct,"Potassium, as oxide. -9999 indicates determinations less than the detection limit of the analytical method",weight percent
+WholeRock_Geochemistry,P2O5_wtpct,"Phosphorus, as oxide",weight percent
+WholeRock_Geochemistry,CO2_wtpct,"Carbon, as oxide. Blank indicates element not analyzed. -9999 indicates determinations less than the detection limit of the analytical method",weight percent
+WholeRock_Geochemistry,H2O_wtpct,Water content. Blank indicates not analyzed,weight percent
+WholeRock_Geochemistry,LOI_wtpct,Loss on ignition,weight percent
+WholeRock_Geochemistry,Rb_ppm,Rubidium. -9999 indicates determinations less than the detection limit of the analytical method,parts per million
+WholeRock_Geochemistry,Sr_ppm,Strontium,parts per million
+WholeRock_Geochemistry,Y_ppm,Yttrium,parts per million
+WholeRock_Geochemistry,Zr_ppm,Zirconium. -9999 indicates determinations less than the detection limit of the analytical method,parts per million
+WholeRock_Geochemistry,Nb_ppm,Niobium. -9999 indicates determinations less than the detection limit of the analytical method,parts per million
+WholeRock_Geochemistry,Cs_ppm,Cesium. -9999 indicates determinations less than the detection limit of the analytical method,parts per million
+WholeRock_Geochemistry,Ba_ppm,Barium,parts per million
+WholeRock_Geochemistry,La_ppm,Lanthanum,parts per million
+WholeRock_Geochemistry,Ce_ppm,Cerium,parts per million
+WholeRock_Geochemistry,Pr_ppm,Praesodymium,parts per million
+WholeRock_Geochemistry,Nd_ppm,Neodymium,parts per million
+WholeRock_Geochemistry,Sm_ppm,Samarium,parts per million
+WholeRock_Geochemistry,Eu_ppm,Europium,parts per million
+WholeRock_Geochemistry,Gd_ppm,Gadolinium,parts per million
+WholeRock_Geochemistry,Tb_ppm,Terbium,parts per million
+WholeRock_Geochemistry,Dy_ppm,Dysprosium,parts per million
+WholeRock_Geochemistry,Ho_ppm,Holmium,parts per million
+WholeRock_Geochemistry,Er_ppm,Erbium,parts per million
+WholeRock_Geochemistry,Tm_ppm,Thulium,parts per million
+WholeRock_Geochemistry,Yb_ppm,Ytterbium,parts per million
+WholeRock_Geochemistry,Lu_ppm,Lutetium,parts per million
+WholeRock_Geochemistry,Hf_ppm,Hafnium. -9999 indicates determinations less than the detection limit of the analytical method,parts per million
+WholeRock_Geochemistry,Ta_ppm,Tantalum. -9999 indicates determinations less than the detection limit of the analytical method,parts per million
+WholeRock_Geochemistry,Pb_ppm,Lead,parts per million
+WholeRock_Geochemistry,Th_ppm,Thorium,parts per million
+WholeRock_Geochemistry,U_ppm,Uranium,parts per million

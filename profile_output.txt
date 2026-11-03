@@ -1,0 +1,80 @@
+
+===== -9999 VALUES BY COLUMN =====
+Latitude : 5
+Longitude : 5
+Elevation : 5
+Th_ppm_ICPAES_MS : 14
+Zr_ppm_ICPAES_MS : 9
+Al2O3_pct_WDXRF : 9
+BaO_pct_WDXRF : 9
+CaO_pct_WDXRF : 9
+Cr2O3_pct_WDXRF : 9
+Fe2O3_pct_WDXRF : 9
+K2O_pct_WDXRF : 9
+MgO_pct_WDXRF : 9
+MnO_pct_WDXRF : 9
+Na2O_pct_WDXRF : 9
+P2O5_pct_WDXRF : 9
+SiO2_pct_WDXRF : 9
+TiO2_pct_WDXRF : 9
+SrO_pct_WDXRF : 9
+V2O5_pct_WDXRF : 9
+LOI_pct_WDXRF : 9
+CO2_pct_IR : 20
+C_carbonate_pct_IR : 20
+
+===== NEGATIVE VALUES (EXCLUDING -9999) =====
+Longitude : 24
+K_pct_ICPAES_MS : 7
+Mg_pct_ICPAES_MS : 1
+Ti_pct_ICPAES_MS : 28
+Ag_ppm_ICPAES_MS : 24
+B_ppm_ICPAES_MS : 26
+Be_ppm_ICPAES_MS : 20
+Bi_ppm_ICPAES_MS : 17
+Cd_ppm_ICPAES_MS : 11
+Cr_ppm_ICPAES_MS : 23
+Cs_ppm_ICPAES_MS : 23
+Cu_ppm_ICPAES_MS : 4
+Hf_ppm_ICPAES_MS : 28
+In_ppm_ICPAES_MS : 29
+Li_ppm_ICPAES_MS : 17
+Mo_ppm_ICPAES_MS : 3
+Nb_ppm_ICPAES_MS : 1
+Ni_ppm_ICPAES_MS : 17
+Rb_ppm_ICPAES_MS : 11
+Sb_ppm_ICPAES_MS : 2
+Sc_ppm_ICPAES_MS : 15
+Se_ppm_ICPAES_MS : 22
+Sn_ppm_ICPAES_MS : 22
+Ta_ppm_ICPAES_MS : 28
+Te_ppm_ICPAES_MS : 29
+Tl_ppm_ICPAES_MS : 29
+V_ppm_ICPAES_MS : 3
+W_ppm_ICPAES_MS : 6
+Zn_ppm_ICPAES_MS : 11
+Zr_ppm_ICPAES_MS : 8
+Cr2O3_pct_WDXRF : 20
+K2O_pct_WDXRF : 12
+MnO_pct_WDXRF : 3
+Na2O_pct_WDXRF : 5
+TiO2_pct_WDXRF : 19
+V2O5_pct_WDXRF : 20
+
+===== RARE EARTH ELEMENTS =====
+La_ppm_ICPAES_MS : 29 valid values
+Ce_ppm_ICPAES_MS : 29 valid values
+Pr_ppm_ICPAES_MS : 29 valid values
+Nd_ppm_ICPAES_MS : 29 valid values
+Sm_ppm_ICPAES_MS : 29 valid values
+Eu_ppm_ICPAES_MS : 29 valid values
+Gd_ppm_ICPAES_MS : 29 valid values
+Tb_ppm_ICPAES_MS : 29 valid values
+Dy_ppm_ICPAES_MS : 29 valid values
+Ho_ppm_ICPAES_MS : 29 valid values
+Er_ppm_ICPAES_MS : 29 valid values
+Tm_ppm_ICPAES_MS : 29 valid values
+Yb_ppm_ICPAES_MS : 29 valid values
+Lu_ppm_ICPAES_MS : 29 valid values
+
+Inspection completed!
